@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ Hello, I'm [Your Name] ✨
+# ✨ Hello, I'm Ely✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Data+Analysis;Software+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
@@ -11,11 +11,11 @@
 ## 🌸 About Me
 
 ```yaml
-name: Your Name
-location: Your City, Country
-current_focus: Building intelligent chatbot systems
-interests: [AI, Python, Full-Stack Development]
-fun_fact: "I turn coffee into code ☕→💻"
+name: Elyesa Tee
+location: Malaysia
+current_focus: Building intelligent chatbot systems, learning data engineering flow
+interests: gym, Netflix, coding [?]
+fun_fact: "I'm taller than you"
 ```
 
 <div align="center">
@@ -52,12 +52,12 @@ fun_fact: "I turn coffee into code ☕→💻"
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FFB6C1&text_color=696969" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=buefy&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FFB6C1&currStreakLabel=FF69B4&sideLabels=FF69B4&stroke=FFB6C1&currStreakNum=696969&sideNums=696969&dates=696969" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=veyroxie&show_icons=true&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FFB6C1&text_color=696969" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=veyroxie&theme=buefy&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FFB6C1&currStreakLabel=FF69B4&sideLabels=FF69B4&stroke=FFB6C1&currStreakNum=696969&sideNums=696969&dates=696969" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=696969" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veyroxie&layout=compact&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=696969" alt="Top Languages" />
 </div>
 
 ---
@@ -65,7 +65,7 @@ fun_fact: "I turn coffee into code ☕→💻"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=chalk&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=veyroxie&theme=chalk&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -84,7 +84,7 @@ fun_fact: "I turn coffee into code ☕→💻"
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-FFE4E1?style=for-the-badge&logo=gmail&logoColor=FF69B4)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-FFE4E1?style=for-the-badge&logo=gmail&logoColor=FF69B4)](mailto:etee3001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=FFB6C1)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-FFE4E1?style=for-the-badge&logo=twitter&logoColor=FF69B4)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFF0F5?style=for-the-badge&logo=google-chrome&logoColor=FFB6C1)](https://yourwebsite.com)
