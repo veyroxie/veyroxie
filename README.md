@@ -74,7 +74,7 @@ fun_fact: "I'm taller than you"
 
 <div align="center">
 
-[![Ollama Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ollama-chatbot&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FFB6C1&text_color=696969)](https://github.com/YOUR_USERNAME/ollama-chatbot)
+[![Ollama Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ollama-chatbot&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FFB6C1&text_color=696969)](https://github.com/veyroxie/ollama-chatbot)
 
 </div>
 
