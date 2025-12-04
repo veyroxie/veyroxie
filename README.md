@@ -74,7 +74,7 @@ fun_fact: "I'm taller than you"
 
 <div align="center">
 
-[![Ollama Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=veyroxie&repo=ollama-chatbot&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FFB6C1&text_color=696969)](https://github.com/veyroxie/ollama-chatbot)
+[![Ollama Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=veyroxie&repo=ollama-chatbot&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FFB6C1&text_color=696969&cache_seconds=1800)](https://github.com/veyroxie/ollama-chatbot)
 
 </div>
 
@@ -86,7 +86,6 @@ fun_fact: "I'm taller than you"
 
 [![Email](https://img.shields.io/badge/Email-FFE4E1?style=for-the-badge&logo=gmail&logoColor=FF69B4)](mailto:etee3001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=FFB6C1)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-FFE4E1?style=for-the-badge&logo=twitter&logoColor=FF69B4)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFF0F5?style=for-the-badge&logo=google-chrome&logoColor=FFB6C1)](https://yourwebsite.com)
 
 <img src="https://komarev.com/ghpvc/?username=veyroxie&label=Profile%20Views&color=FFB6C1&style=for-the-badge" alt="Profile views" />
